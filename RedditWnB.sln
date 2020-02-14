@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedditWnB.API", "RedditWnB.API\RedditWnB.API.csproj", "{B7714FB4-916C-4369-8147-DDF30A9F9FE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7714FB4-916C-4369-8147-DDF30A9F9FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7714FB4-916C-4369-8147-DDF30A9F9FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7714FB4-916C-4369-8147-DDF30A9F9FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7714FB4-916C-4369-8147-DDF30A9F9FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C03B570-FBCA-4F48-9370-1434B32D08B0}
+	EndGlobalSection
+EndGlobal
